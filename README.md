@@ -1,0 +1,1 @@
+This is a README file where I am practicing using Git.
